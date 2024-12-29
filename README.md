@@ -1,7 +1,8 @@
 # WeatherAnalysis-
 
 Project Overview
-The Indian Weather Repository Dashboard is a comprehensive and interactive tool designed to analyze and visualize weather data across India. This project leverages modern data analytics and visualization techniques to provide insights into various weather components and trends. It is ideal for weather enthusiasts, researchers, and analysts who seek to understand India's diverse climate. Tools use Excel and Power BI.
+The Indian Weather Repository Dashboard is a comprehensive and interactive tool designed to analyze and visualize weather data across India. This project leverages modern data analytics and visualization techniques to provide insights into various weather components and trends. It is ideal for weather enthusiasts, researchers, and analysts who seek to understand India's diverse climate. The primary tools used for this project include Power BI and Excel.
+
 
 Features
 
